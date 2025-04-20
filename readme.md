@@ -1,6 +1,6 @@
 # AI Prompt Assistant with Together API
 
-This script is a simple CLI-based tool that leverages the Together API to interact with a powerful language model (`Llama-3.3-70B`). It streamlines the process of querying AI, especially useful for tasks like summarizing YouTube video transcripts — no need to bounce between services anymore.
+This script is a simple CLI-based tool that leverages the together.ai API to interact with a LLM (`Llama-3.3-70B`). It streamlines the process of querying AI, especially useful for tasks like summarizing YouTube video transcripts — no need to bounce between services anymore.
 
 ---
 ## 🧠 Why This Exists
@@ -20,7 +20,7 @@ This script kills that pain. One step, one model, fast output.
 
 - Python 3.7+
 - `together` Python package
-- A Together API key set in your environment
+- A together.ai API key set in your environment
 
 ---
 ## 📦 Installation
